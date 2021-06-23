@@ -1,0 +1,23 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14929834",
+      "name": "上下左右Triangle1 (2)",
+      "font_class": "shangxiazuoyouTriangle12",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "14929835",
+      "name": "上下左右Triangle1 (4)",
+      "font_class": "shangxiazuoyouTriangle14",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    }
+  ]
+}

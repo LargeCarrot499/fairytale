@@ -1,0 +1,18 @@
+.content {
+    width: 1000px;
+    padding: 0 45px;
+    height: 2350px;
+    background: #fff;
+    margin: 0 auto 25px;
+    overflow: hidden;
+}
+
+.content p {
+    line-height: 45px;
+    text-indent: 2em;
+}
+
+.content h3 {
+    margin-top: 20px;
+    text-align: center;
+}

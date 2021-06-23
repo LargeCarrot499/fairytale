@@ -1,0 +1,45 @@
+.content {
+    margin: 0 auto;
+    width: 1000px;
+    height: 598px;
+    /* height: 700px; */
+    /* background: skyblue; */
+    overflow: hidden;
+}
+
+.content .content_1 {
+    width: 100%;
+    height: 300px;
+    /* background: slateblue; */
+    margin-top: 200px;
+}
+
+.content .content_1 .content_1_left {
+    float: left;
+    width: 530px;
+    height: 100%;
+    border-radius: 45px;
+    background: snow;
+    background: url(../image/timg.jpg) no-repeat;
+}
+
+.content .content_1 .content_1_right {
+    float: left;
+    width: 450px;
+    height: 100%;
+    background: #ffffcc;
+    border-radius: 45px;
+    margin-left: 20px;
+}
+
+.content .content_1 .content_1_right a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    border-radius: 45px;
+    text-align: center;
+    line-height: 300px;
+    font-weight: 700;
+    color: #ff9933;
+    font-size: 50px;
+}
